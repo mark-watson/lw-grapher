@@ -1,6 +1,6 @@
 # Mark's simple clone of ISI-Grapher on top of LispWorks CAPI UI library
 
-From my book: purchase at: https://leanpub.com/lovinglisp or read fro free on my web site: https://markwatson.com
+From my book: purchase at: https://leanpub.com/lovinglisp or read for free on my web site: https://markwatson.com
 
 Clone this repo into ~/quicklisp/local-projects
 
